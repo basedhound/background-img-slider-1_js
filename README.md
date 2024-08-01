@@ -15,7 +15,7 @@
 
 **[EN]** Landing page design featuring a stunning image background slider and paradise islands theme. Created using HTML, CSS, and JavaScript, with smooth transitions and engaging visuals to captivate visitors. Dynamic animations created with GSAP and interactive slider powered by Swiper.js.
 
-**[FR]** Conception de page de destination avec un diaporama d'images en arrière-plan et un thème d'îles paradisiaques. Réalisée en HTML, CSS et JavaScript, avec des transitions fluides et des visuels captivants pour attirer les visiteurs. Animations dynamiques créées avec GSAP et diaporama interactif optimisé par Swiper.js.
+**[FR]** Page d'accueil intégrant un diaporama d'images en arrière-plan sur les thème des îles paradisiaques. Réalisée en HTML, CSS et JavaScript, avec des transitions fluides et des visuels captivants pour attirer les visiteurs. Animations dynamiques créées avec GSAP et diaporama interactif optimisé par Swiper.js.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
