@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://bg-img-slider-1.netlify.app" target="_blank">
-      <img src="design/preview.webp" alt="Project Banner">
+      <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Background Image Slider #1</h3>
 </div>
@@ -25,11 +25,11 @@
   
 - **JavaScript** is a versatile programming language that enables interactive and dynamic functionality on web pages. It allows developers to create features like form validation, animations, and asynchronous content loading. JavaScript is essential for building modern web applications and works seamlessly with HTML and CSS to create a complete user experience.
   
-- **Sass** is a powerful CSS preprocessor that extends the capabilities of CSS with features like variables, nested rules, mixins, and functions. It helps in writing more maintainable and reusable CSS code by allowing for a more structured and organized approach to styling. Sass files are compiled into regular CSS before being served to the browser.
+- **Sass** is a powerful CSS preprocessor that extends the capabilities of CSS with features like variables, nested rules, mixins, and functions. It helps in writing more maintainable and reusable CSS code by allowing for a more structured and organized approach to styling. Sass files are compiled into regular CSS before being served to the browser. [📄](https://sass-lang.com/documentation) 
   
-- **GSAP** (GreenSock Animation Platform) is a robust JavaScript library for creating high-performance animations. It allows developers to animate any object on the web with precise control over timing, sequences, and interactions. GSAP is known for its speed, reliability, and rich feature set, making it a go-to choice for professional animators and developers.
+- **GSAP** (GreenSock Animation Platform) is a robust JavaScript library for creating high-performance animations. It allows developers to animate any object on the web with precise control over timing, sequences, and interactions. GSAP is known for its speed, reliability, and rich feature set, making it a go-to choice for professional animators and developers. [📄](https://gsap.com/docs/v3/) 
   
-- **Swiper.js** is a modern, free, mobile touch slider with hardware-accelerated transitions. It is used to create responsive, swipeable sliders and carousels with a wide range of customization options. Swiper.js supports various transition effects, navigation controls, and is compatible with all major web browsers and mobile platforms.
+- **Swiper.js** is a modern, free, mobile touch slider with hardware-accelerated transitions. It is used to create responsive, swipeable sliders and carousels with a wide range of customization options. Swiper.js supports various transition effects, navigation controls, and is compatible with all major web browsers and mobile platforms. [📄](https://swiperjs.com/get-started) 
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
